@@ -97,6 +97,7 @@ INSERT INTO `doctor` (`docid`, `docemail`, `docname`, `docpassword`, `docnic`, `
 
 --
 -- Table structure for table `patient`
+
 --
 
 DROP TABLE IF EXISTS `patient`;
@@ -254,3 +255,7 @@ COMMIT;
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
+
+
+-- MySQL DB Name	MySQL User Name	MySQL Password	MySQL Host Name	PHPMyAdmin
+-- if0_37718227_BookYourDoc	if0_37718227	(Your vPanel Password)	sql100.infinityfree.com
